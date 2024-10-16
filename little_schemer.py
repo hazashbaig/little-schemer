@@ -1230,3 +1230,19 @@ class Solution:
 # s =  Solution()
 # print(s.maxAreaOfIsland(grid))
 
+
+
+
+"""
+
+portfolio website in react: https://ethnus-react-task-6.vercel.app/
+capstone: https://capstone-six-silk.vercel.app/
+
+http://github.com/parzevl24
+https://art-gallery-iota-vert.vercel.app/
+
+https://nosql-finalproj.vercel.app/
+https://ethnus-react-task-2.vercel.app/
+
+
+"""
